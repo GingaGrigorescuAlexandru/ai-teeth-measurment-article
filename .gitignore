@@ -1,0 +1,6 @@
+datasets/
+venv/
+zips/
+.env
+notes.txt
+eliminated.txt
