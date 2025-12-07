@@ -1,9 +1,10 @@
 import numpy as np
 
+
 # -------------------------------------------
 # MEASURE CANINE LENGTH FROM POLYGON
 # -------------------------------------------
-def measure_polygon_length(points, image_width, image_height):
+def measure_polygon_length(points, image_width, image_height, mm_per_pixel):
     # Convert normalized YOLO coords → pixel coords
     px = np.array([p[0] * image_width for p in points])  # Array of x coordinates (in pixels)
     py = np.array([p[1] * image_height for p in points]) # Array of y coordinates (in pixels)
@@ -17,10 +18,7 @@ def measure_polygon_length(points, image_width, image_height):
 
     pixel_length = np.sqrt((x2 - x1)**2 + (y2 - y1)**2) # Apply Pytagoras formula to get the real distance between the two points
 
-    # OPG real physical width = 270 mm
-    mm_per_pixel = 270 / image_width
-
     mm_length = pixel_length * mm_per_pixel # Calculate the length based on the reference
 
     # Return length
-    return mm_length 
+    return float(mm_length) 
