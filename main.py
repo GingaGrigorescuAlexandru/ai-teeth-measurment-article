@@ -1,4 +1,4 @@
-
+# Image processing modules
 from PIL import Image
 import os
 
@@ -9,9 +9,10 @@ from modules.load_yolo_polygons import load_yolo_polygons
 from modules.insert_opg_record import insert_opg_record
 
 
-# -------------------------------------------
+
+# ------------------------------
 # PROCESS A SINGLE IMAGE + LABEL
-# -------------------------------------------
+# ------------------------------
 def process_opg(image_path, label_path):
     try:
         title, age = parse_filename(image_path)
@@ -31,20 +32,20 @@ def process_opg(image_path, label_path):
 
     # Measure tooth lengths
     lengths = {}
-    for t in ["13", "23", "33", "43"]:
+    for t in ["13", "23", "33", "43"]: # Loop through each type of tooth
         if polygons[t]:
             lengths[t] = measure_polygon_length(
-                polygons[t][0], image_width, image_height
+                polygons[t], image_width, image_height
             )
         else:
-            lengths[t] = None
+            lengths[t] = None # If there is no such tooth, annotate it as None
 
     # Read raw files
     with open(image_path, "rb") as f:
-        img_bytes = f.read()
+        img_bytes = f.read() # Read the bytes of the image
 
     with open(label_path, "r") as f:
-        label_txt = f.read()
+        label_txt = f.read() # Read the text of the label
 
     # UPSERT into database
     insert_opg_record(
@@ -55,17 +56,18 @@ def process_opg(image_path, label_path):
         float(lengths["43"]) if lengths["43"] is not None else None
     )
 
-    print(f"   ✔ Stored in DB | Age: {age} | 13: {lengths['13']:.2f} mm")
+    print(f"✔ Stored in DB | Age: {age}")
+
 
 
 # -------------------------------------------
 # PROCESS ALL FILES IN FOLDERS
 # -------------------------------------------
-def process_all(base_dir="clean_opg_files/train"):
-    img_dir = os.path.join(base_dir, "images")
-    label_dir = os.path.join(base_dir, "labels")
+def process_all(base_dir):
+    img_dir = os.path.join(base_dir, "images")   # Create image folder path
+    label_dir = os.path.join(base_dir, "labels") # Create label folder path
 
-    images = sorted([
+    images = sorted([ # Create list of sorted image files
         f for f in os.listdir(img_dir)
         if f.lower().endswith((".jpg", ".png", ".jpeg"))
     ])
@@ -73,10 +75,10 @@ def process_all(base_dir="clean_opg_files/train"):
     print(f"\n📁 Found {len(images)} OPG images.")
     print("🚀 Starting batch processing...\n")
 
-    for img_file in images:
-        img_path = os.path.join(img_dir, img_file)
-        base = os.path.splitext(img_file)[0]
-        label_path = os.path.join(label_dir, base + ".txt")
+    for img_file in images:                                 # Loop through each image file
+        img_path = os.path.join(img_dir, img_file)          # Get the path of each image
+        base = os.path.splitext(img_file)[0]                # Get he name of the file without the extension
+        label_path = os.path.join(label_dir, base + ".txt") # Use the base name to get the label path
 
         if not os.path.exists(label_path):
             print(f"❌ Missing label for {img_file}, skipping.")
@@ -87,8 +89,9 @@ def process_all(base_dir="clean_opg_files/train"):
     print("\n🎉 DONE! All OPG files processed successfully.\n")
 
 
+
 # -------------------------------------------
 # RUN
 # -------------------------------------------
 if __name__ == "__main__":
-    process_all("clean_opg_files/train")
+    process_all("datasets\\removed-no-reference\\train")

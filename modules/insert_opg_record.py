@@ -2,7 +2,7 @@ import psycopg2
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv() # Load the environmental variables 
 
 # -------------------------------------------
 # DB CONNECTION

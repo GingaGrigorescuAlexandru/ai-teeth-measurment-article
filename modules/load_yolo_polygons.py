@@ -7,16 +7,16 @@ def load_yolo_polygons(label_path):
 
     with open(label_path, "r") as f:
         for line in f:
-            parts = line.strip().split()
-            cls = parts[0]
+            parts = line.strip().split()  # Splits a row of the label file into its corresponding parts
+            cls = parts[0]                # Gets the class as the first element in the row
 
             if cls not in class_map:
-                continue
+                continue # Skips the tooth if the class is NOT the one we need
 
-            tooth = class_map[cls]
-            nums = list(map(float, parts[1:]))
-            pts = [(nums[i], nums[i+1]) for i in range(0, len(nums), 2)]
+            tooth = class_map[cls]                                         # Gets the tooth number form the map
+            nums = list(map(float, parts[1:]))                             # Transforms the strings into float numbers (mask coordinates)
+            pts = [(nums[i], nums[i+1]) for i in range(0, len(nums), 2)]   # Pairs each consecutive two numbers into point coordinates (YOLO format)
 
-            teeth[tooth].append(pts)
+            teeth[tooth] = pts      # Appends the coordinate points for each mask to the corresponding tooth
 
     return teeth
