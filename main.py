@@ -9,6 +9,7 @@ from modules.load_yolo_polygons import load_yolo_polygons
 from modules.measure_polygon_length import measure_polygon_length
 from modules.measure_canine_distance import get_peak_point, measure_canine_distance
 from modules.insert_opg_record import insert_opg_record
+from modules.visualize_measurements import visualize_measurements
 
 
 # ------------------------------
@@ -16,7 +17,7 @@ from modules.insert_opg_record import insert_opg_record
 # ------------------------------
 def process_opg(image_path, label_path):
     try:
-        title, age = parse_filename(image_path)
+        title, age, sex = parse_filename(image_path)
     except Exception as e:
         logger.error(str(e))
         return
@@ -53,6 +54,14 @@ def process_opg(image_path, label_path):
     # Call the module function to calculate the canine distances
     distance_13_23, distance_33_43 = measure_canine_distance(peaks, mm_per_pixel)
 
+    # Save visualization of measured lines
+    visualize_measurements(
+        image_path=image_path,
+        polygons=polygons,
+        peaks=peaks,
+        output_dir=os.path.join("exports", "visualizations"),
+    )
+
     # Read raw files
     with open(image_path, "rb") as f:
         img_bytes = f.read() # Read the bytes of the image
@@ -62,7 +71,7 @@ def process_opg(image_path, label_path):
 
     # UPSERT into database
     insert_opg_record(
-        title, age,
+        title, age, sex,
         float(lengths["13"]) if lengths["13"] is not None else None,
         float(lengths["23"]) if lengths["23"] is not None else None,
         float(lengths["33"]) if lengths["33"] is not None else None,
@@ -110,4 +119,4 @@ def process_all(base_dir):
 # RUN
 # -------------------------------------------
 if __name__ == "__main__":
-    process_all("datasets\\removed-no-reference\\train")
+    process_all("datasets\\main-opgs-final-version\\train")

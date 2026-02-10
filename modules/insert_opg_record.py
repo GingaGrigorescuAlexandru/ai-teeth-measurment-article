@@ -19,7 +19,7 @@ def get_connection():
 # -------------------------------------------
 # INSERT OR UPDATE DATABASE RECORD (UPSERT)
 # -------------------------------------------
-def insert_opg_record(title, age, 
+def insert_opg_record(title, age, sex,
                       l13, l23, l33, l43, 
                       dist_13_23, dist_33_43, 
                       img_bytes, label_text):
@@ -29,14 +29,15 @@ def insert_opg_record(title, age,
 
     cur.execute("""
         INSERT INTO OPGs (
-            title, age,
+            title, sex, age,
             canine_13_length, canine_23_length,
             canine_33_length, canine_43_length,
             distance_13_23, distance_33_43,
             opg_image, label_text
         )
-        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
         ON CONFLICT (title) DO UPDATE SET
+            sex = EXCLUDED.sex,
             age = EXCLUDED.age,
             canine_13_length = EXCLUDED.canine_13_length,
             canine_23_length = EXCLUDED.canine_23_length,
@@ -47,7 +48,7 @@ def insert_opg_record(title, age,
             opg_image = EXCLUDED.opg_image,
             label_text = EXCLUDED.label_text;
     """, (
-        title, age,
+        title, sex, age,
         l13, l23, l33, l43,
         dist_13_23, dist_33_43,
         img_bytes, label_text

@@ -1,432 +1,838 @@
-2025-12-08 01:14:11 - INFO - main.py:91 - 
-📁 Found 85 OPG images.
-2025-12-08 01:14:11 - INFO - main.py:92 - 🚀 Starting batch processing...
+2026-02-10 18:39:39 - INFO - main.py:100 - 
+📁 Found 136 OPG images.
+2026-02-10 18:39:39 - INFO - main.py:101 - 🚀 Starting batch processing...
 
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 10_-B-38-de-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 3736 × 3113
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.07226980728051392 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 38
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 10_-F-44-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 1188 × 560
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.22727272727272727 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 44
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 11_-B-52-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 3593 × 1755
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.07514611745059839 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 52
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 12_-B-39-de-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 3523 × 1750
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.07663922793074085 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 39
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 12_-F-44-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 3600 × 1745
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.075 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 44
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 13_-B-36-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 3525 × 1779
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.07659574468085106 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 36
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 14_-B-23-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 1092 × 542
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.24725274725274726 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 23
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 14_-F-52-de-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 3548 × 1751
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.07609921082299888 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 52
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 15_-B-67-de-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 3533 × 1756
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.07642230399094255 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 67
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 15_-F-25-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 2750 × 1352
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.09818181818181818 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 25
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 16_-B-22-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 3525 × 1764
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.07659574468085106 mm
-2025-12-08 01:14:11 - INFO - main.py:75 - ✔ Stored in DB | Age: 22
-2025-12-08 01:14:11 - INFO - main.py:31 - 
-🖼  Processing 16_-F-52-ani_jpg
-2025-12-08 01:14:11 - INFO - main.py:32 -    → Resolution: 3545 × 1760
-2025-12-08 01:14:11 - INFO - main.py:33 -    → Pixel Scale: 0.076163610719323 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 52
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 17_-B-44-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3596 × 1759
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07508342602892103 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 44
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 17_-F-31-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3538 × 1759
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07631430186546072 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 31
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 18_-B-44-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3537 × 1762
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07633587786259542 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 44
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 18_-F-38-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3544 × 1760
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07618510158013544 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 38
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 19_-B-36-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 2787 × 1357
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.0968783638320775 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 36
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 20_-F-37-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 2771 × 1355
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.09743774810537711 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 37
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 21_-24-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 1242 × 624
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.21739130434782608 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 24
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 21_-51-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3531 × 1763
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07646559048428207 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 51
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 22_-34-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3659 × 1856
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07379065318393004 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 34
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 22_-47-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3148 × 1631
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.08576874205844981 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 47
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 23_-29-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3586 × 1773
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07529280535415504 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 29
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 24_-22-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3543 × 1760
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07620660457239628 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 22
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 24_-45-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3541 × 1770
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07624964699237503 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 45
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 25_-17-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3536 × 1773
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07635746606334842 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 17
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 26_-23-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 1600 × 816
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.16875 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 23
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 26_-42-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3181 × 1628
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.08487896887771142 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 42
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 27_-37-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3539 × 1760
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07629273806159932 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 37
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 28_-23-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3536 × 1759
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07635746606334842 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 23
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 29_-24-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3543 × 1760
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07620660457239628 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 24
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 29_-36-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3530 × 1777
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.0764872521246459 mm
-2025-12-08 01:14:12 - INFO - main.py:75 - ✔ Stored in DB | Age: 36
-2025-12-08 01:14:12 - INFO - main.py:31 - 
-🖼  Processing 30_-27-ani_jpg
-2025-12-08 01:14:12 - INFO - main.py:32 -    → Resolution: 3537 × 1759
-2025-12-08 01:14:12 - INFO - main.py:33 -    → Pixel Scale: 0.07633587786259542 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 27
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 30_-52-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3538 × 1758
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07631430186546072 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 52
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 31_-51-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3527 × 1760
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07655231074567621 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 51
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 32_-42-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3531 × 1765
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07646559048428207 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 42
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 32_-49-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3536 × 1756
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07635746606334842 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 49
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 33_-20-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3529 × 1755
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.0765089260413715 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 20
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 33_-39-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3529 × 1760
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.0765089260413715 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 39
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 34_-24-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3538 × 1768
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07631430186546072 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 24
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 35_-35-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3535 × 1759
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07637906647807638 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 35
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 35_-51-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3537 × 1763
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07633587786259542 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 51
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 36_-32-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3530 × 1756
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.0764872521246459 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 32
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 36_-36-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3536 × 1767
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07635746606334842 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 36
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 37_-24-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3535 × 1766
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07637906647807638 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 24
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 37_-30-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3546 × 1761
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07614213197969544 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 30
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 38_-38-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3539 × 1760
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07629273806159932 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 38
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 38_-40-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3533 × 1769
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07642230399094255 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 40
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 39_-41-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3545 × 1763
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.076163610719323 mm
-2025-12-08 01:14:13 - INFO - main.py:75 - ✔ Stored in DB | Age: 41
-2025-12-08 01:14:13 - INFO - main.py:31 - 
-🖼  Processing 40_-38-ani_jpg
-2025-12-08 01:14:13 - INFO - main.py:32 -    → Resolution: 3536 × 1758
-2025-12-08 01:14:13 - INFO - main.py:33 -    → Pixel Scale: 0.07635746606334842 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 38
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 41_-46-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3544 × 1756
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07618510158013544 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 46
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 42_-38-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3543 × 1768
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07620660457239628 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 38
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 42_-58-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3523 × 1766
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07663922793074085 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 58
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 43_-40-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3533 × 1761
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07642230399094255 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 40
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 43_-42-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3139 × 1637
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.08601465434851864 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 42
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 44_-40-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3540 × 1770
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07627118644067797 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 40
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 45_-53-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3525 × 1766
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07659574468085106 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 53
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 46_-62-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3531 × 1769
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07646559048428207 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 62
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 47_-73-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3536 × 1759
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07635746606334842 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 73
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 48_-64-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3535 × 1757
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07637906647807638 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 64
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 50_-44-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3537 × 1756
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07633587786259542 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 44
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 52_-34-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3542 × 1755
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07622811970638058 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 34
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 53_-24-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3534 × 1768
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07640067911714771 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 24
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 54_-34-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3544 × 1764
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07618510158013544 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 34
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 54_-45-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3535 × 1759
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07637906647807638 mm
-2025-12-08 01:14:14 - INFO - main.py:75 - ✔ Stored in DB | Age: 45
-2025-12-08 01:14:14 - INFO - main.py:31 - 
-🖼  Processing 55_-49-ani_jpg
-2025-12-08 01:14:14 - INFO - main.py:32 -    → Resolution: 3551 × 1755
-2025-12-08 01:14:14 - INFO - main.py:33 -    → Pixel Scale: 0.07603491974091806 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 49
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 56_-22-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3538 × 1762
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07631430186546072 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 22
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 56_-74-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3534 × 1753
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07640067911714771 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 74
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 57_-43-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3523 × 1778
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07663922793074085 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 43
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 57_-56-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3532 × 1769
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07644394110985278 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 56
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 58_-37-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3534 × 1768
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07640067911714771 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 37
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 60_-37-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3540 × 1769
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07627118644067797 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 37
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 60_-52-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3533 × 1736
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07642230399094255 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 52
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 62_-37-ani-_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3533 × 1759
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07642230399094255 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 37
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 62_-66-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3533 × 1763
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07642230399094255 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 66
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 63_-38-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3535 × 1768
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07637906647807638 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 38
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 63_-58-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3526 × 1770
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07657402155416904 mm
-2025-12-08 01:14:15 - INFO - main.py:75 - ✔ Stored in DB | Age: 58
-2025-12-08 01:14:15 - INFO - main.py:31 - 
-🖼  Processing 65_-44-ani_jpg
-2025-12-08 01:14:15 - INFO - main.py:32 -    → Resolution: 3547 × 1757
-2025-12-08 01:14:15 - INFO - main.py:33 -    → Pixel Scale: 0.07612066535100084 mm
-2025-12-08 01:14:16 - INFO - main.py:75 - ✔ Stored in DB | Age: 44
-2025-12-08 01:14:16 - INFO - main.py:31 - 
-🖼  Processing 65_-69-ani_jpg
-2025-12-08 01:14:16 - INFO - main.py:32 -    → Resolution: 3535 × 1765
-2025-12-08 01:14:16 - INFO - main.py:33 -    → Pixel Scale: 0.07637906647807638 mm
-2025-12-08 01:14:16 - INFO - main.py:75 - ✔ Stored in DB | Age: 69
-2025-12-08 01:14:16 - INFO - main.py:31 - 
-🖼  Processing 66_-25-ani_jpg
-2025-12-08 01:14:16 - INFO - main.py:32 -    → Resolution: 3538 × 1761
-2025-12-08 01:14:16 - INFO - main.py:33 -    → Pixel Scale: 0.07631430186546072 mm
-2025-12-08 01:14:16 - INFO - main.py:75 - ✔ Stored in DB | Age: 25
-2025-12-08 01:14:16 - INFO - main.py:31 - 
-🖼  Processing 66_-35-ani_jpg
-2025-12-08 01:14:16 - INFO - main.py:32 -    → Resolution: 3528 × 1766
-2025-12-08 01:14:16 - INFO - main.py:33 -    → Pixel Scale: 0.07653061224489796 mm
-2025-12-08 01:14:16 - INFO - main.py:75 - ✔ Stored in DB | Age: 35
-2025-12-08 01:14:16 - INFO - main.py:31 - 
-🖼  Processing 6_-B-24-ani_jpg
-2025-12-08 01:14:16 - INFO - main.py:32 -    → Resolution: 400 × 324
-2025-12-08 01:14:16 - INFO - main.py:33 -    → Pixel Scale: 0.675 mm
-2025-12-08 01:14:16 - INFO - main.py:75 - ✔ Stored in DB | Age: 24
-2025-12-08 01:14:16 - INFO - main.py:31 - 
-🖼  Processing 8_-B-34-ani_jpg
-2025-12-08 01:14:16 - INFO - main.py:32 -    → Resolution: 3736 × 3113
-2025-12-08 01:14:16 - INFO - main.py:33 -    → Pixel Scale: 0.07226980728051392 mm
-2025-12-08 01:14:16 - INFO - main.py:75 - ✔ Stored in DB | Age: 34
-2025-12-08 01:14:16 - INFO - main.py:31 - 
-🖼  Processing 8_-F-52-ani_jpg
-2025-12-08 01:14:16 - INFO - main.py:32 -    → Resolution: 3736 × 3113
-2025-12-08 01:14:16 - INFO - main.py:33 -    → Pixel Scale: 0.07226980728051392 mm
-2025-12-08 01:14:16 - INFO - main.py:75 - ✔ Stored in DB | Age: 52
-2025-12-08 01:14:16 - INFO - main.py:31 - 
-🖼  Processing 9_-B-19-ani_jpg
-2025-12-08 01:14:16 - INFO - main.py:32 -    → Resolution: 1200 × 1000
-2025-12-08 01:14:16 - INFO - main.py:33 -    → Pixel Scale: 0.225 mm
-2025-12-08 01:14:16 - INFO - main.py:75 - ✔ Stored in DB | Age: 19
-2025-12-08 01:14:16 - INFO - main.py:105 - 
+2026-02-10 18:39:39 - INFO - main.py:32 - 
+🖼  Processing 10-B-38-de-ani_jpg
+2026-02-10 18:39:39 - INFO - main.py:33 -    → Resolution: 3636 × 1721
+2026-02-10 18:39:39 - INFO - main.py:34 -    → Pixel Scale: 0.07425742574257425 mm
+2026-02-10 18:39:39 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\10-B-38-de-ani_jpg.rf.acab29cdfcc6b66a37c7b840b6717954.jpg
+2026-02-10 18:39:39 - INFO - main.py:84 - ✔ Stored in DB | Age: 38
+2026-02-10 18:39:39 - INFO - main.py:32 - 
+🖼  Processing 10-F-44-ani_jpg
+2026-02-10 18:39:39 - INFO - main.py:33 -    → Resolution: 1188 × 560
+2026-02-10 18:39:39 - INFO - main.py:34 -    → Pixel Scale: 0.22727272727272727 mm
+2026-02-10 18:39:39 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\10-F-44-ani_jpg.rf.c9ca3d35e3b3000af8bacf7fe2ffaea1.jpg
+2026-02-10 18:39:39 - INFO - main.py:84 - ✔ Stored in DB | Age: 44
+2026-02-10 18:39:39 - INFO - main.py:32 - 
+🖼  Processing 11-B-52-ani_jpg
+2026-02-10 18:39:39 - INFO - main.py:33 -    → Resolution: 3593 × 1755
+2026-02-10 18:39:39 - INFO - main.py:34 -    → Pixel Scale: 0.07514611745059839 mm
+2026-02-10 18:39:39 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\11-B-52-ani_jpg.rf.10530bc3fa786f16c5e8ee2e1938f5b7.jpg
+2026-02-10 18:39:39 - INFO - main.py:84 - ✔ Stored in DB | Age: 52
+2026-02-10 18:39:39 - INFO - main.py:32 - 
+🖼  Processing 11-F-55-ani_jpg
+2026-02-10 18:39:39 - INFO - main.py:33 -    → Resolution: 3596 × 1750
+2026-02-10 18:39:39 - INFO - main.py:34 -    → Pixel Scale: 0.07508342602892103 mm
+2026-02-10 18:39:39 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\11-F-55-ani_jpg.rf.b5d0b1d6cd8fc9b39784f19d88b66ff3.jpg
+2026-02-10 18:39:40 - INFO - main.py:84 - ✔ Stored in DB | Age: 55
+2026-02-10 18:39:40 - INFO - main.py:32 - 
+🖼  Processing 12-B-39-de-ani_jpg
+2026-02-10 18:39:40 - INFO - main.py:33 -    → Resolution: 3523 × 1750
+2026-02-10 18:39:40 - INFO - main.py:34 -    → Pixel Scale: 0.07663922793074085 mm
+2026-02-10 18:39:40 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\12-B-39-de-ani_jpg.rf.2e52521da25dbd592da75124df2329e8.jpg
+2026-02-10 18:39:40 - INFO - main.py:84 - ✔ Stored in DB | Age: 39
+2026-02-10 18:39:40 - INFO - main.py:32 - 
+🖼  Processing 12-F-44-ani_jpg
+2026-02-10 18:39:40 - INFO - main.py:33 -    → Resolution: 3600 × 1745
+2026-02-10 18:39:40 - INFO - main.py:34 -    → Pixel Scale: 0.075 mm
+2026-02-10 18:39:40 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\12-F-44-ani_jpg.rf.ab2a49e59ed4184fcd1977ce4f98decd.jpg
+2026-02-10 18:39:40 - INFO - main.py:84 - ✔ Stored in DB | Age: 44
+2026-02-10 18:39:40 - INFO - main.py:32 - 
+🖼  Processing 13-B-36-ani_jpg
+2026-02-10 18:39:40 - INFO - main.py:33 -    → Resolution: 3525 × 1779
+2026-02-10 18:39:40 - INFO - main.py:34 -    → Pixel Scale: 0.07659574468085106 mm
+2026-02-10 18:39:40 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\13-B-36-ani_jpg.rf.0b5d9807a252d64363b5ded923175a0e.jpg
+2026-02-10 18:39:40 - INFO - main.py:84 - ✔ Stored in DB | Age: 36
+2026-02-10 18:39:40 - INFO - main.py:32 - 
+🖼  Processing 13-F-39-ani_jpg
+2026-02-10 18:39:40 - INFO - main.py:33 -    → Resolution: 2802 × 1360
+2026-02-10 18:39:40 - INFO - main.py:34 -    → Pixel Scale: 0.09635974304068523 mm
+2026-02-10 18:39:40 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\13-F-39-ani_jpg.rf.65eef04aef0a3022ec5c4304bdc3f383.jpg
+2026-02-10 18:39:40 - INFO - main.py:84 - ✔ Stored in DB | Age: 39
+2026-02-10 18:39:40 - INFO - main.py:32 - 
+🖼  Processing 14-B-23-ani_jpg
+2026-02-10 18:39:40 - INFO - main.py:33 -    → Resolution: 1092 × 542
+2026-02-10 18:39:40 - INFO - main.py:34 -    → Pixel Scale: 0.24725274725274726 mm
+2026-02-10 18:39:40 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\14-B-23-ani_jpg.rf.fbe1da01c28b0083cad3cb5da6777655.txt line 28 for class 2 looks like a bbox; converted to polygon.
+2026-02-10 18:39:40 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\14-B-23-ani_jpg.rf.fbe1da01c28b0083cad3cb5da6777655.jpg
+2026-02-10 18:39:40 - INFO - main.py:84 - ✔ Stored in DB | Age: 23
+2026-02-10 18:39:40 - INFO - main.py:32 - 
+🖼  Processing 14-F-52-de-ani_jpg
+2026-02-10 18:39:40 - INFO - main.py:33 -    → Resolution: 3548 × 1751
+2026-02-10 18:39:40 - INFO - main.py:34 -    → Pixel Scale: 0.07609921082299888 mm
+2026-02-10 18:39:40 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\14-F-52-de-ani_jpg.rf.507616425acdee9f76260f99cb7265e8.jpg
+2026-02-10 18:39:40 - INFO - main.py:84 - ✔ Stored in DB | Age: 52
+2026-02-10 18:39:40 - INFO - main.py:32 - 
+🖼  Processing 15-B-67-de-ani_jpg
+2026-02-10 18:39:40 - INFO - main.py:33 -    → Resolution: 3533 × 1756
+2026-02-10 18:39:40 - INFO - main.py:34 -    → Pixel Scale: 0.07642230399094255 mm
+2026-02-10 18:39:40 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\15-B-67-de-ani_jpg.rf.53014efb280ee0bbe1eecd48d0b4eb9b.jpg
+2026-02-10 18:39:40 - INFO - main.py:84 - ✔ Stored in DB | Age: 67
+2026-02-10 18:39:40 - INFO - main.py:32 - 
+🖼  Processing 15-F-25-ani_jpg
+2026-02-10 18:39:40 - INFO - main.py:33 -    → Resolution: 2750 × 1352
+2026-02-10 18:39:40 - INFO - main.py:34 -    → Pixel Scale: 0.09818181818181818 mm
+2026-02-10 18:39:40 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\15-F-25-ani_jpg.rf.f8e8f4f20e0761ceb1a4bc158182ae98.jpg
+2026-02-10 18:39:40 - INFO - main.py:84 - ✔ Stored in DB | Age: 25
+2026-02-10 18:39:40 - INFO - main.py:32 - 
+🖼  Processing 16-B-22-ani_jpg
+2026-02-10 18:39:40 - INFO - main.py:33 -    → Resolution: 3525 × 1764
+2026-02-10 18:39:40 - INFO - main.py:34 -    → Pixel Scale: 0.07659574468085106 mm
+2026-02-10 18:39:40 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\16-B-22-ani_jpg.rf.987e0c730347536bc1a02f8725bb149f.jpg
+2026-02-10 18:39:40 - INFO - main.py:84 - ✔ Stored in DB | Age: 22
+2026-02-10 18:39:40 - INFO - main.py:32 - 
+🖼  Processing 16-F-52-ani_jpg
+2026-02-10 18:39:40 - INFO - main.py:33 -    → Resolution: 3545 × 1760
+2026-02-10 18:39:40 - INFO - main.py:34 -    → Pixel Scale: 0.076163610719323 mm
+2026-02-10 18:39:40 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\16-F-52-ani_jpg.rf.4ce2840413905836f1765f3b77cc67da.jpg
+2026-02-10 18:39:41 - INFO - main.py:84 - ✔ Stored in DB | Age: 52
+2026-02-10 18:39:41 - INFO - main.py:32 - 
+🖼  Processing 17-B-44-ani_jpg
+2026-02-10 18:39:41 - INFO - main.py:33 -    → Resolution: 3596 × 1759
+2026-02-10 18:39:41 - INFO - main.py:34 -    → Pixel Scale: 0.07508342602892103 mm
+2026-02-10 18:39:41 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\17-B-44-ani_jpg.rf.ad30c1bc9399b224d2cec4c3b7f3f37a.jpg
+2026-02-10 18:39:41 - INFO - main.py:84 - ✔ Stored in DB | Age: 44
+2026-02-10 18:39:41 - INFO - main.py:32 - 
+🖼  Processing 17-F-31-ani_jpg
+2026-02-10 18:39:41 - INFO - main.py:33 -    → Resolution: 3538 × 1759
+2026-02-10 18:39:41 - INFO - main.py:34 -    → Pixel Scale: 0.07631430186546072 mm
+2026-02-10 18:39:41 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\17-F-31-ani_jpg.rf.59d636c8bded0038556335a5d59cc2c6.jpg
+2026-02-10 18:39:41 - INFO - main.py:84 - ✔ Stored in DB | Age: 31
+2026-02-10 18:39:41 - INFO - main.py:32 - 
+🖼  Processing 18-B-44-ani_jpg
+2026-02-10 18:39:41 - INFO - main.py:33 -    → Resolution: 3537 × 1762
+2026-02-10 18:39:41 - INFO - main.py:34 -    → Pixel Scale: 0.07633587786259542 mm
+2026-02-10 18:39:41 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\18-B-44-ani_jpg.rf.f51a2240ad510a092f3f8f9ec60c4be8.jpg
+2026-02-10 18:39:41 - INFO - main.py:84 - ✔ Stored in DB | Age: 44
+2026-02-10 18:39:41 - INFO - main.py:32 - 
+🖼  Processing 18-F-38-ani_jpg
+2026-02-10 18:39:41 - INFO - main.py:33 -    → Resolution: 3544 × 1760
+2026-02-10 18:39:41 - INFO - main.py:34 -    → Pixel Scale: 0.07618510158013544 mm
+2026-02-10 18:39:41 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\18-F-38-ani_jpg.rf.cd2662190bca2c18ab0ec502028a637b.jpg
+2026-02-10 18:39:41 - INFO - main.py:84 - ✔ Stored in DB | Age: 38
+2026-02-10 18:39:41 - INFO - main.py:32 - 
+🖼  Processing 19-B-36-ani_jpg
+2026-02-10 18:39:41 - INFO - main.py:33 -    → Resolution: 2787 × 1357
+2026-02-10 18:39:41 - INFO - main.py:34 -    → Pixel Scale: 0.0968783638320775 mm
+2026-02-10 18:39:41 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\19-B-36-ani_jpg.rf.ac808600d15ade0791d9f5e284a5dd91.jpg
+2026-02-10 18:39:41 - INFO - main.py:84 - ✔ Stored in DB | Age: 36
+2026-02-10 18:39:41 - INFO - main.py:32 - 
+🖼  Processing 19-F-35-ani_jpg
+2026-02-10 18:39:41 - INFO - main.py:33 -    → Resolution: 3534 × 1755
+2026-02-10 18:39:41 - INFO - main.py:34 -    → Pixel Scale: 0.07640067911714771 mm
+2026-02-10 18:39:41 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\19-F-35-ani_jpg.rf.ce88c04c1d8e214b74c12c97e44a4fd6.jpg
+2026-02-10 18:39:41 - INFO - main.py:84 - ✔ Stored in DB | Age: 35
+2026-02-10 18:39:41 - INFO - main.py:32 - 
+🖼  Processing 20-B-52-ani_jpg
+2026-02-10 18:39:41 - INFO - main.py:33 -    → Resolution: 3541 × 1771
+2026-02-10 18:39:41 - INFO - main.py:34 -    → Pixel Scale: 0.07624964699237503 mm
+2026-02-10 18:39:41 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\20-B-52-ani_jpg.rf.7e394ae6cb10b73e1b59ed350687b4f6.jpg
+2026-02-10 18:39:41 - INFO - main.py:84 - ✔ Stored in DB | Age: 52
+2026-02-10 18:39:41 - INFO - main.py:32 - 
+🖼  Processing 20-F-37-ani_jpg
+2026-02-10 18:39:41 - INFO - main.py:33 -    → Resolution: 2771 × 1355
+2026-02-10 18:39:41 - INFO - main.py:34 -    → Pixel Scale: 0.09743774810537711 mm
+2026-02-10 18:39:41 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\20-F-37-ani_jpg.rf.2657e5fbff1279724eb567bf233323f0.jpg
+2026-02-10 18:39:41 - INFO - main.py:84 - ✔ Stored in DB | Age: 37
+2026-02-10 18:39:41 - INFO - main.py:32 - 
+🖼  Processing 21-B-51-ani_jpg
+2026-02-10 18:39:41 - INFO - main.py:33 -    → Resolution: 3531 × 1763
+2026-02-10 18:39:41 - INFO - main.py:34 -    → Pixel Scale: 0.07646559048428207 mm
+2026-02-10 18:39:41 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\21-B-51-ani_jpg.rf.b73d6b027c99e3f39853d8eb898eb0a7.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 51
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 21-F-24-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 1242 × 624
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.21739130434782608 mm
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\21-F-24-ani_jpg.rf.cb43f3192ca28a1bc371e91e67a52cf7.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 24
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 22-B-47-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 3148 × 1631
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.08576874205844981 mm
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\22-B-47-ani_jpg.rf.c4e59fdc5c4a071803081e171aa79256.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 47
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 22-F-34-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 3638 × 1703
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.07421660252886202 mm
+2026-02-10 18:39:42 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\22-F-34-ani_jpg.rf.63af004678760479776caaf623af4349.txt line 33 for class 1 looks like a bbox; converted to polygon.
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\22-F-34-ani_jpg.rf.63af004678760479776caaf623af4349.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 34
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 23-B-43-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 3543 × 1759
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.07620660457239628 mm
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\23-B-43-ani_jpg.rf.d15e68f0a95070c45ab0ff6323b007d9.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 43
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 23-F-29-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 3586 × 1773
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.07529280535415504 mm
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\23-F-29-ani_jpg.rf.b6cf9032b07ebdd595f23ea8a7320984.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 29
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 24-B-45-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 3541 × 1770
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.07624964699237503 mm
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\24-B-45-ani_jpg.rf.53d6a31d7fcfebaaca30a926d3efd572.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 45
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 24-F-22-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 3543 × 1760
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.07620660457239628 mm
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\24-F-22-ani_jpg.rf.77bd74ddf4d2228c28ebe44590209b81.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 22
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 25-B-74-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 3526 × 1761
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.07657402155416904 mm
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\25-B-74-ani_jpg.rf.c10e9716b326fe7b7021b58cfe9772b6.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 74
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 25-F-17-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 3536 × 1773
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.07635746606334842 mm
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\25-F-17-ani_jpg.rf.d6bb8ce1a65a487376fad57bce502527.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 17
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 26-B-42-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 3181 × 1628
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.08487896887771142 mm
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\26-B-42-ani_jpg.rf.932aacde7b94df9e19c3862818a52451.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 42
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 26-F-23-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 1600 × 816
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.16875 mm
+2026-02-10 18:39:42 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\26-F-23-ani_jpg.rf.1335688d1ab3017503fc79119c4cf755.jpg
+2026-02-10 18:39:42 - INFO - main.py:84 - ✔ Stored in DB | Age: 23
+2026-02-10 18:39:42 - INFO - main.py:32 - 
+🖼  Processing 27-B-37-ani_jpg
+2026-02-10 18:39:42 - INFO - main.py:33 -    → Resolution: 3539 × 1760
+2026-02-10 18:39:42 - INFO - main.py:34 -    → Pixel Scale: 0.07629273806159932 mm
+2026-02-10 18:39:43 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\27-B-37-ani_jpg.rf.3ff8c0e4c2e90eb58eb51900024ad56e.jpg
+2026-02-10 18:39:43 - INFO - main.py:84 - ✔ Stored in DB | Age: 37
+2026-02-10 18:39:43 - INFO - main.py:32 - 
+🖼  Processing 28-F-23-ani_jpg
+2026-02-10 18:39:43 - INFO - main.py:33 -    → Resolution: 3536 × 1759
+2026-02-10 18:39:43 - INFO - main.py:34 -    → Pixel Scale: 0.07635746606334842 mm
+2026-02-10 18:39:43 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\28-F-23-ani_jpg.rf.955cec7d1fc83f96da22705c94bf68fd.jpg
+2026-02-10 18:39:43 - INFO - main.py:84 - ✔ Stored in DB | Age: 23
+2026-02-10 18:39:43 - INFO - main.py:32 - 
+🖼  Processing 29-B-36-ani_jpg
+2026-02-10 18:39:43 - INFO - main.py:33 -    → Resolution: 3530 × 1777
+2026-02-10 18:39:43 - INFO - main.py:34 -    → Pixel Scale: 0.0764872521246459 mm
+2026-02-10 18:39:43 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\29-B-36-ani_jpg.rf.0926b771e5fa614f5106973936c54e53.jpg
+2026-02-10 18:39:43 - INFO - main.py:84 - ✔ Stored in DB | Age: 36
+2026-02-10 18:39:43 - INFO - main.py:32 - 
+🖼  Processing 29-F-24-ani_jpg
+2026-02-10 18:39:43 - INFO - main.py:33 -    → Resolution: 3543 × 1760
+2026-02-10 18:39:43 - INFO - main.py:34 -    → Pixel Scale: 0.07620660457239628 mm
+2026-02-10 18:39:43 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\29-F-24-ani_jpg.rf.9cc812968667ffdb6ede734e8c189bcb.jpg
+2026-02-10 18:39:43 - INFO - main.py:84 - ✔ Stored in DB | Age: 24
+2026-02-10 18:39:43 - INFO - main.py:32 - 
+🖼  Processing 30-B-52-ani_jpg
+2026-02-10 18:39:43 - INFO - main.py:33 -    → Resolution: 3538 × 1758
+2026-02-10 18:39:43 - INFO - main.py:34 -    → Pixel Scale: 0.07631430186546072 mm
+2026-02-10 18:39:43 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\30-B-52-ani_jpg.rf.fbbce530933d13274c53a097b49ebd59.jpg
+2026-02-10 18:39:43 - INFO - main.py:84 - ✔ Stored in DB | Age: 52
+2026-02-10 18:39:43 - INFO - main.py:32 - 
+🖼  Processing 30-F-27-ani_jpg
+2026-02-10 18:39:43 - INFO - main.py:33 -    → Resolution: 3537 × 1759
+2026-02-10 18:39:43 - INFO - main.py:34 -    → Pixel Scale: 0.07633587786259542 mm
+2026-02-10 18:39:43 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\30-F-27-ani_jpg.rf.6e3db1018837d3de63f827c090c7648d.jpg
+2026-02-10 18:39:43 - INFO - main.py:84 - ✔ Stored in DB | Age: 27
+2026-02-10 18:39:43 - INFO - main.py:32 - 
+🖼  Processing 31-B-65-ani_jpg
+2026-02-10 18:39:43 - INFO - main.py:33 -    → Resolution: 3532 × 1772
+2026-02-10 18:39:43 - INFO - main.py:34 -    → Pixel Scale: 0.07644394110985278 mm
+2026-02-10 18:39:43 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\31-B-65-ani_jpg.rf.9bf12fd131b55af65e4713fe33898bd8.jpg
+2026-02-10 18:39:43 - INFO - main.py:84 - ✔ Stored in DB | Age: 65
+2026-02-10 18:39:43 - INFO - main.py:32 - 
+🖼  Processing 32-B-42-ani_jpg
+2026-02-10 18:39:43 - INFO - main.py:33 -    → Resolution: 3531 × 1765
+2026-02-10 18:39:43 - INFO - main.py:34 -    → Pixel Scale: 0.07646559048428207 mm
+2026-02-10 18:39:43 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\32-B-42-ani_jpg.rf.94c57863e474043841fcf8c8004b8cdb.jpg
+2026-02-10 18:39:43 - INFO - main.py:84 - ✔ Stored in DB | Age: 42
+2026-02-10 18:39:43 - INFO - main.py:32 - 
+🖼  Processing 32-F-49-ani_jpg
+2026-02-10 18:39:43 - INFO - main.py:33 -    → Resolution: 3536 × 1756
+2026-02-10 18:39:43 - INFO - main.py:34 -    → Pixel Scale: 0.07635746606334842 mm
+2026-02-10 18:39:43 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\32-F-49-ani_jpg.rf.d9b1cae366a5318441c6c4b89be3a40b.jpg
+2026-02-10 18:39:44 - INFO - main.py:84 - ✔ Stored in DB | Age: 49
+2026-02-10 18:39:44 - INFO - main.py:32 - 
+🖼  Processing 33-B-39-ani_jpg
+2026-02-10 18:39:44 - INFO - main.py:33 -    → Resolution: 3529 × 1760
+2026-02-10 18:39:44 - INFO - main.py:34 -    → Pixel Scale: 0.0765089260413715 mm
+2026-02-10 18:39:44 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\33-B-39-ani_jpg.rf.2cd0fd4b7bf80729f567acb87b40e7a6.jpg
+2026-02-10 18:39:44 - INFO - main.py:84 - ✔ Stored in DB | Age: 39
+2026-02-10 18:39:44 - INFO - main.py:32 - 
+🖼  Processing 33-F-20-ani_jpg
+2026-02-10 18:39:44 - INFO - main.py:33 -    → Resolution: 3529 × 1755
+2026-02-10 18:39:44 - INFO - main.py:34 -    → Pixel Scale: 0.0765089260413715 mm
+2026-02-10 18:39:44 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\33-F-20-ani_jpg.rf.fac07dc804dfe71f944b503d4410fe17.jpg
+2026-02-10 18:39:44 - INFO - main.py:84 - ✔ Stored in DB | Age: 20
+2026-02-10 18:39:44 - INFO - main.py:32 - 
+🖼  Processing 34-B-48-ani_jpg
+2026-02-10 18:39:44 - INFO - main.py:33 -    → Resolution: 3531 × 1770
+2026-02-10 18:39:44 - INFO - main.py:34 -    → Pixel Scale: 0.07646559048428207 mm
+2026-02-10 18:39:44 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\34-B-48-ani_jpg.rf.dc09fd7543189c18c9200702aba73cf9.jpg
+2026-02-10 18:39:44 - INFO - main.py:84 - ✔ Stored in DB | Age: 48
+2026-02-10 18:39:44 - INFO - main.py:32 - 
+🖼  Processing 34-F-24-ani_jpg
+2026-02-10 18:39:44 - INFO - main.py:33 -    → Resolution: 3538 × 1768
+2026-02-10 18:39:44 - INFO - main.py:34 -    → Pixel Scale: 0.07631430186546072 mm
+2026-02-10 18:39:44 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\34-F-24-ani_jpg.rf.8d248c413227cd42c5573ad4b380d0ff.jpg
+2026-02-10 18:39:44 - INFO - main.py:84 - ✔ Stored in DB | Age: 24
+2026-02-10 18:39:44 - INFO - main.py:32 - 
+🖼  Processing 35-B-35-ani_jpg
+2026-02-10 18:39:44 - INFO - main.py:33 -    → Resolution: 3535 × 1759
+2026-02-10 18:39:44 - INFO - main.py:34 -    → Pixel Scale: 0.07637906647807638 mm
+2026-02-10 18:39:44 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\35-B-35-ani_jpg.rf.867f72e9273efb3a2ce636bda3fedb48.jpg
+2026-02-10 18:39:44 - INFO - main.py:84 - ✔ Stored in DB | Age: 35
+2026-02-10 18:39:44 - INFO - main.py:32 - 
+🖼  Processing 35-F-51-ani_jpg
+2026-02-10 18:39:44 - INFO - main.py:33 -    → Resolution: 3537 × 1763
+2026-02-10 18:39:44 - INFO - main.py:34 -    → Pixel Scale: 0.07633587786259542 mm
+2026-02-10 18:39:44 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\35-F-51-ani_jpg.rf.3f49631df907962cc193503fba0bbca4.jpg
+2026-02-10 18:39:44 - INFO - main.py:84 - ✔ Stored in DB | Age: 51
+2026-02-10 18:39:44 - INFO - main.py:32 - 
+🖼  Processing 36-B-36-ani_jpg
+2026-02-10 18:39:44 - INFO - main.py:33 -    → Resolution: 3536 × 1767
+2026-02-10 18:39:44 - INFO - main.py:34 -    → Pixel Scale: 0.07635746606334842 mm
+2026-02-10 18:39:44 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\36-B-36-ani_jpg.rf.87c87f38ea81369d27d3d681afaf05f4.jpg
+2026-02-10 18:39:44 - INFO - main.py:84 - ✔ Stored in DB | Age: 36
+2026-02-10 18:39:44 - INFO - main.py:32 - 
+🖼  Processing 36-F-32-ani_jpg
+2026-02-10 18:39:44 - INFO - main.py:33 -    → Resolution: 3530 × 1756
+2026-02-10 18:39:44 - INFO - main.py:34 -    → Pixel Scale: 0.0764872521246459 mm
+2026-02-10 18:39:44 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\36-F-32-ani_jpg.rf.767e09bcc1fb58bb1281a0d41e967b6a.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 32
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 37-B-24-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 3535 × 1766
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.07637906647807638 mm
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\37-B-24-ani_jpg.rf.e19d581ec173f4dc1dd0486c65564a5c.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 24
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 37-F-30-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 3546 × 1761
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.07614213197969544 mm
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\37-F-30-ani_jpg.rf.05205ef7819b62928ccb523ed38f25fc.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 30
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 38-B-40-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 3533 × 1769
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.07642230399094255 mm
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\38-B-40-ani_jpg.rf.e547b7068dc4d1a2e500a64dc1418a60.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 40
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 38-F-38-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 3539 × 1760
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.07629273806159932 mm
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\38-F-38-ani_jpg.rf.845e515aeb0cb71bd1bfa7adec335584.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 38
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 39-B-41-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 765 × 381
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:45 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\39-B-41-ani_jpg.rf.c6ccd7be0d2d9d3aee4091ad30248930.txt line 46 for class 3 looks like a bbox; converted to polygon.
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\39-B-41-ani_jpg.rf.c6ccd7be0d2d9d3aee4091ad30248930.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 41
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 39-F-42-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 3536 × 1758
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.07635746606334842 mm
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\39-F-42-ani_jpg.rf.627e580bbdf2335d3768e78db623dfd5.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 42
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 40-B-36-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 765 × 383
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\40-B-36-ani_jpg.rf.67c683d6e6d55b3e676f9eab41d04c65.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 36
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 40-F-38-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 3536 × 1758
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.07635746606334842 mm
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\40-F-38-ani_jpg.rf.2b020c3fe7a95d8dd1523c24b23cbacc.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 38
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 41-B-55-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 765 × 382
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\41-B-55-ani_jpg.rf.0901fa7341f6d695ca44f591ea7ae7aa.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 55
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 41-F-46-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 3544 × 1756
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.07618510158013544 mm
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\41-F-46-ani_jpg.rf.578c222c34a126d1bbb9130d22f03263.jpg
+2026-02-10 18:39:45 - INFO - main.py:84 - ✔ Stored in DB | Age: 46
+2026-02-10 18:39:45 - INFO - main.py:32 - 
+🖼  Processing 42-B-58-ani_jpg
+2026-02-10 18:39:45 - INFO - main.py:33 -    → Resolution: 765 × 384
+2026-02-10 18:39:45 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:45 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\42-B-58-ani_jpg.rf.728d2acafe8cc627f5f95f95ecc77bcf.txt line 33 for class 0 looks like a bbox; converted to polygon.
+2026-02-10 18:39:45 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\42-B-58-ani_jpg.rf.728d2acafe8cc627f5f95f95ecc77bcf.jpg
+2026-02-10 18:39:46 - INFO - main.py:84 - ✔ Stored in DB | Age: 58
+2026-02-10 18:39:46 - INFO - main.py:32 - 
+🖼  Processing 42-F-38-ani_jpg
+2026-02-10 18:39:46 - INFO - main.py:33 -    → Resolution: 3543 × 1768
+2026-02-10 18:39:46 - INFO - main.py:34 -    → Pixel Scale: 0.07620660457239628 mm
+2026-02-10 18:39:46 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\42-F-38-ani_jpg.rf.949b8c7f5114ea74efb83aee509a7412.jpg
+2026-02-10 18:39:46 - INFO - main.py:84 - ✔ Stored in DB | Age: 38
+2026-02-10 18:39:46 - INFO - main.py:32 - 
+🖼  Processing 43-B-40-ani_jpg
+2026-02-10 18:39:46 - INFO - main.py:33 -    → Resolution: 3533 × 1761
+2026-02-10 18:39:46 - INFO - main.py:34 -    → Pixel Scale: 0.07642230399094255 mm
+2026-02-10 18:39:46 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\43-B-40-ani_jpg.rf.a0252dd4e355594b2b108fd70a4abd54.jpg
+2026-02-10 18:39:46 - INFO - main.py:84 - ✔ Stored in DB | Age: 40
+2026-02-10 18:39:46 - INFO - main.py:32 - 
+🖼  Processing 43-F-42-ani_jpg
+2026-02-10 18:39:46 - INFO - main.py:33 -    → Resolution: 3139 × 1637
+2026-02-10 18:39:46 - INFO - main.py:34 -    → Pixel Scale: 0.08601465434851864 mm
+2026-02-10 18:39:46 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\43-F-42-ani_jpg.rf.fe1b9d3cc2aaf567e4c47adecd715e54.jpg
+2026-02-10 18:39:46 - INFO - main.py:84 - ✔ Stored in DB | Age: 42
+2026-02-10 18:39:46 - INFO - main.py:32 - 
+🖼  Processing 44-B-40-ani_jpg
+2026-02-10 18:39:46 - INFO - main.py:33 -    → Resolution: 3540 × 1770
+2026-02-10 18:39:46 - INFO - main.py:34 -    → Pixel Scale: 0.07627118644067797 mm
+2026-02-10 18:39:46 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\44-B-40-ani_jpg.rf.fde96eda302899e44c95d44b96e260f1.jpg
+2026-02-10 18:39:46 - INFO - main.py:84 - ✔ Stored in DB | Age: 40
+2026-02-10 18:39:46 - INFO - main.py:32 - 
+🖼  Processing 45-F-53-ani_jpg
+2026-02-10 18:39:46 - INFO - main.py:33 -    → Resolution: 3525 × 1766
+2026-02-10 18:39:46 - INFO - main.py:34 -    → Pixel Scale: 0.07659574468085106 mm
+2026-02-10 18:39:46 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\45-F-53-ani_jpg.rf.e4d8a073ca17f7ef3536247c7262fd25.jpg
+2026-02-10 18:39:46 - INFO - main.py:84 - ✔ Stored in DB | Age: 53
+2026-02-10 18:39:46 - INFO - main.py:32 - 
+🖼  Processing 46-F-62-ani_jpg
+2026-02-10 18:39:46 - INFO - main.py:33 -    → Resolution: 3531 × 1769
+2026-02-10 18:39:46 - INFO - main.py:34 -    → Pixel Scale: 0.07646559048428207 mm
+2026-02-10 18:39:46 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\46-F-62-ani_jpg.rf.2d86845a01f0211c4654d754a1386819.jpg
+2026-02-10 18:39:46 - INFO - main.py:84 - ✔ Stored in DB | Age: 62
+2026-02-10 18:39:46 - INFO - main.py:32 - 
+🖼  Processing 47-F-73-ani_jpg
+2026-02-10 18:39:46 - INFO - main.py:33 -    → Resolution: 3536 × 1759
+2026-02-10 18:39:46 - INFO - main.py:34 -    → Pixel Scale: 0.07635746606334842 mm
+2026-02-10 18:39:46 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\47-F-73-ani_jpg.rf.cd363a83f82b143fc3e59c2f090372c4.jpg
+2026-02-10 18:39:46 - INFO - main.py:84 - ✔ Stored in DB | Age: 73
+2026-02-10 18:39:46 - INFO - main.py:32 - 
+🖼  Processing 48-F-64-ani_jpg
+2026-02-10 18:39:46 - INFO - main.py:33 -    → Resolution: 3535 × 1757
+2026-02-10 18:39:46 - INFO - main.py:34 -    → Pixel Scale: 0.07637906647807638 mm
+2026-02-10 18:39:46 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\48-F-64-ani_jpg.rf.51091a5bfab259fc82b29a0f6b493d7b.jpg
+2026-02-10 18:39:46 - INFO - main.py:84 - ✔ Stored in DB | Age: 64
+2026-02-10 18:39:46 - INFO - main.py:32 - 
+🖼  Processing 50-F-44-ani_jpg
+2026-02-10 18:39:46 - INFO - main.py:33 -    → Resolution: 3537 × 1756
+2026-02-10 18:39:46 - INFO - main.py:34 -    → Pixel Scale: 0.07633587786259542 mm
+2026-02-10 18:39:46 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\50-F-44-ani_jpg.rf.4e033027dbec3af7e3bdd01bd6a6f223.jpg
+2026-02-10 18:39:46 - INFO - main.py:84 - ✔ Stored in DB | Age: 44
+2026-02-10 18:39:46 - INFO - main.py:32 - 
+🖼  Processing 51-F-68-ani_jpg
+2026-02-10 18:39:46 - INFO - main.py:33 -    → Resolution: 3531 × 1768
+2026-02-10 18:39:46 - INFO - main.py:34 -    → Pixel Scale: 0.07646559048428207 mm
+2026-02-10 18:39:46 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\51-F-68-ani_jpg.rf.a22fb5e0d9181e01d90324a6ea9bc8ff.txt line 28 for class 1 looks like a bbox; converted to polygon.
+2026-02-10 18:39:46 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\51-F-68-ani_jpg.rf.a22fb5e0d9181e01d90324a6ea9bc8ff.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 68
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 52-F-34-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 3542 × 1755
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.07622811970638058 mm
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\52-F-34-ani_jpg.rf.3975ee1b8f36f1a05f52c7c1de150c24.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 34
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 53-B-24-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 765 × 383
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\53-B-24-ani_jpg.rf.9fcd79a98f43ca16d22cf7e265fecf6a.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 24
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 54-F-45-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 3535 × 1759
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.07637906647807638 mm
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\54-F-45-ani_jpg.rf.8f82317f1f962942ea257c5b4e523b68.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 45
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 55-B-49-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 765 × 378
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:47 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\55-B-49-ani_jpg.rf.ef203b06cf9a20e505a85aa0aa7878cf.txt line 24 for class 0 looks like a bbox; converted to polygon.
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\55-B-49-ani_jpg.rf.ef203b06cf9a20e505a85aa0aa7878cf.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 49
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 55-F-61-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 3263 × 1580
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.0827459393196445 mm
+2026-02-10 18:39:47 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\55-F-61-ani_jpg.rf.c9b6a3fa645365d159bbf8b7b10a8afb.txt line 38 for class 0 looks like a bbox; converted to polygon.
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\55-F-61-ani_jpg.rf.c9b6a3fa645365d159bbf8b7b10a8afb.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 61
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 56-B-22-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 765 × 381
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\56-B-22-ani_jpg.rf.7898d74338f6da834b707877b0ab6a26.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 22
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 56-F-74-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 3534 × 1753
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.07640067911714771 mm
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\56-F-74-ani_jpg.rf.2e44d29a0d89f79d4a6191ae80b73de0.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 74
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 57-B-43-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 765 × 386
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:47 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\57-B-43-ani_jpg.rf.979823fc4a298d58dd7f1e764c6c1c4a.txt line 29 for class 1 looks like a bbox; converted to polygon.
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\57-B-43-ani_jpg.rf.979823fc4a298d58dd7f1e764c6c1c4a.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 43
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 57-F-56-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 3532 × 1769
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.07644394110985278 mm
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\57-F-56-ani_jpg.rf.a1bde86d46f5918bbe63e4e58ab811cd.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 56
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 58-B-76-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 765 × 392
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\58-B-76-ani_jpg.rf.a898a4a9ee93eeeaa2045ddd5045b195.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 76
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 58-F-37-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 3534 × 1768
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.07640067911714771 mm
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\58-F-37-ani_jpg.rf.885432b7bf19020394bb2e430d4dd2f5.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 37
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 59-B-35-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 765 × 370
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\59-B-35-ani_jpg.rf.759b6f193dc9602ab09f4a81cb1de0c4.jpg
+2026-02-10 18:39:47 - INFO - main.py:84 - ✔ Stored in DB | Age: 35
+2026-02-10 18:39:47 - INFO - main.py:32 - 
+🖼  Processing 59-F-67-ani_jpg
+2026-02-10 18:39:47 - INFO - main.py:33 -    → Resolution: 3536 × 1769
+2026-02-10 18:39:47 - INFO - main.py:34 -    → Pixel Scale: 0.07635746606334842 mm
+2026-02-10 18:39:47 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\59-F-67-ani_jpg.rf.ae0c3a5b33a82177e922069837e59113.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 67
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 6-B-24-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 389 × 182
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.6940874035989717 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\6-B-24-ani_jpg.rf.a8f1d5bdaec0677941bd8d69d21e1487.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 24
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 60-B-52-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 765 × 376
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\60-B-52-ani_jpg.rf.e8efe98277e11c981c4cf6961029ada6.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 52
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 60-F-37-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 3540 × 1769
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.07627118644067797 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\60-F-37-ani_jpg.rf.e548d9ad60185d1b9c47c330236cc6e1.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 37
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 62-B-37-ani-_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 765 × 381
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:48 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\62-B-37-ani-_jpg.rf.9212a65c2777c8508183452565777a98.txt line 33 for class 3 looks like a bbox; converted to polygon.
+2026-02-10 18:39:48 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\62-B-37-ani-_jpg.rf.9212a65c2777c8508183452565777a98.txt line 34 for class 2 looks like a bbox; converted to polygon.
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\62-B-37-ani-_jpg.rf.9212a65c2777c8508183452565777a98.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 37
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 62-F-66-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 3533 × 1763
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.07642230399094255 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\62-F-66-ani_jpg.rf.daf9bf7671ac861452d0ea943dee018c.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 66
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 63-B-38-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 3535 × 1768
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.07637906647807638 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\63-B-38-ani_jpg.rf.c2838611aa56e5c1c9d23117d729a14e.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 38
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 63-F-58-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 3526 × 1770
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.07657402155416904 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\63-F-58-ani_jpg.rf.c336017fe25a24cfd7c7128ea8c490ae.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 58
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 64-F-48-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 3182 × 1632
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.08485229415461974 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\64-F-48-ani_jpg.rf.8d4c2357592152dc262dbf391fb53012.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 48
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 65-B-69-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 765 × 382
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\65-B-69-ani_jpg.rf.60ede31a83f33a03a9ca3ff2f83b63c5.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 69
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 65-F-44-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 3547 × 1757
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.07612066535100084 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\65-F-44-ani_jpg.rf.69ad1658147ec28beaf2ac033e8012cd.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 44
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 66-B-25-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 3538 × 1761
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.07631430186546072 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\66-B-25-ani_jpg.rf.3ed7d952c0f109890c64c4e3a1e9f509.jpg
+2026-02-10 18:39:48 - INFO - main.py:84 - ✔ Stored in DB | Age: 25
+2026-02-10 18:39:48 - INFO - main.py:32 - 
+🖼  Processing 66-F-35-ani_jpg
+2026-02-10 18:39:48 - INFO - main.py:33 -    → Resolution: 3528 × 1766
+2026-02-10 18:39:48 - INFO - main.py:34 -    → Pixel Scale: 0.07653061224489796 mm
+2026-02-10 18:39:48 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\66-F-35-ani_jpg.rf.d9c981eca35afe1e952974c969f77b0a.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 35
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 69-F_jpeg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 3645 × 1714
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.07407407407407407 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\69-F_jpeg.rf.e4275022acdd9a86c839aa668020e9eb.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 7-B-40-ani_jpg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 1168 × 546
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.23116438356164384 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\7-B-40-ani_jpg.rf.e8839344298fa9831f7dd59042c6019d.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 40
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 71-B-36_jpeg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 765 × 379
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.35294117647058826 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\71-B-36_jpeg.rf.5e7853f5690fc21fb12ab84c902376f9.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 36
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 72-B-23_jpg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 731 × 358
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.3693570451436389 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\72-B-23_jpg.rf.0ae6c990dad6bf2d256d0afb58edcc22.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 23
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 73-B-22_jpeg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 1563 × 752
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.1727447216890595 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\73-B-22_jpeg.rf.025847741365305e1d8fe3e8a2682a5e.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 22
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 73-F-34-de-ani_jpeg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 3640 × 1717
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.07417582417582418 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\73-F-34-de-ani_jpeg.rf.282217fd30c1f8b9c4c1abaa8ad2a32b.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 34
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 74-B-20_jpg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 1565 × 756
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.17252396166134185 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\74-B-20_jpg.rf.8bf6dae3d098c334990be1ca7cf42d23.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 20
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 74-F-43-de-ani_jpeg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 3636 × 1716
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.07425742574257425 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\74-F-43-de-ani_jpeg.rf.a1099cdca1113bffab74b16da0fb13ca.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 43
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 75-B-18_jpg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 1562 × 756
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.17285531370038412 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\75-B-18_jpg.rf.66fb7b785c60ccf99a433e5b9196dc08.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 18
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 75-F-42-de-ani_jpeg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 2824 × 1334
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.09560906515580736 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\75-F-42-de-ani_jpeg.rf.cadafef224f56ced0804aae1ec1747a9.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 42
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 76-B_jpg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 738 × 356
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.36585365853658536 mm
+2026-02-10 18:39:49 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\76-B_jpg.rf.f40e557cac9e8feb7935f09d8b42be99.txt line 32 for class 1 looks like a bbox; converted to polygon.
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\76-B_jpg.rf.f40e557cac9e8feb7935f09d8b42be99.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 77-F-52-de-ani_jpeg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 3622 × 1719
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.07454445057979017 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\77-F-52-de-ani_jpeg.rf.faaa79dcb5ef07a667a3c217ae9958b8.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 52
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 78-F-44-ani_jpeg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 1205 × 568
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.22406639004149378 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\78-F-44-ani_jpeg.rf.29dbd717cd71f2e6427e28fa20091fb0.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 44
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 79-F-37-de-ani_jpeg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 2830 × 1325
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.09540636042402827 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\79-F-37-de-ani_jpeg.rf.7e3d191fb3c6ef1cb7dcdba36b4dc10c.jpg
+2026-02-10 18:39:49 - INFO - main.py:84 - ✔ Stored in DB | Age: 37
+2026-02-10 18:39:49 - INFO - main.py:32 - 
+🖼  Processing 8-B-34-ani_jpg
+2026-02-10 18:39:49 - INFO - main.py:33 -    → Resolution: 3631 × 1696
+2026-02-10 18:39:49 - INFO - main.py:34 -    → Pixel Scale: 0.07435968052877995 mm
+2026-02-10 18:39:49 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\8-B-34-ani_jpg.rf.2b4e932eac5ce6d7bab26b73c4370c55.jpg
+2026-02-10 18:39:50 - INFO - main.py:84 - ✔ Stored in DB | Age: 34
+2026-02-10 18:39:50 - INFO - main.py:32 - 
+🖼  Processing 8-F-52-ani_jpg
+2026-02-10 18:39:50 - INFO - main.py:33 -    → Resolution: 3596 × 1762
+2026-02-10 18:39:50 - INFO - main.py:34 -    → Pixel Scale: 0.07508342602892103 mm
+2026-02-10 18:39:50 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\8-F-52-ani_jpg.rf.45ee7e82d1b4e03d04d60274a553c6f5.jpg
+2026-02-10 18:39:50 - INFO - main.py:84 - ✔ Stored in DB | Age: 52
+2026-02-10 18:39:50 - INFO - main.py:32 - 
+🖼  Processing 80-B-16-ani_jpeg
+2026-02-10 18:39:50 - INFO - main.py:33 -    → Resolution: 1180 × 552
+2026-02-10 18:39:50 - INFO - main.py:34 -    → Pixel Scale: 0.2288135593220339 mm
+2026-02-10 18:39:50 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\80-B-16-ani_jpeg.rf.b94a3f9de2d72a4cd87ed964b477bb0b.jpg
+2026-02-10 18:39:50 - INFO - main.py:84 - ✔ Stored in DB | Age: 16
+2026-02-10 18:39:50 - INFO - main.py:32 - 
+🖼  Processing 80-F-25-de-ani_jpeg
+2026-02-10 18:39:50 - INFO - main.py:33 -    → Resolution: 2828 × 1335
+2026-02-10 18:39:50 - INFO - main.py:34 -    → Pixel Scale: 0.09547383309759547 mm
+2026-02-10 18:39:50 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\80-F-25-de-ani_jpeg.rf.5aa19be7c2315c919d360fc9aef5c668.jpg
+2026-02-10 18:39:50 - INFO - main.py:84 - ✔ Stored in DB | Age: 25
+2026-02-10 18:39:50 - INFO - main.py:32 - 
+🖼  Processing 81-B-37-de-ani_jpeg
+2026-02-10 18:39:50 - INFO - main.py:33 -    → Resolution: 2835 × 1355
+2026-02-10 18:39:50 - INFO - main.py:34 -    → Pixel Scale: 0.09523809523809523 mm
+2026-02-10 18:39:50 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\81-B-37-de-ani_jpeg.rf.82241ced423f921b4be3086d175e5060.jpg
+2026-02-10 18:39:50 - INFO - main.py:84 - ✔ Stored in DB | Age: 37
+2026-02-10 18:39:50 - INFO - main.py:32 - 
+🖼  Processing 81-F_jpeg
+2026-02-10 18:39:50 - INFO - main.py:33 -    → Resolution: 1486 × 749
+2026-02-10 18:39:50 - INFO - main.py:34 -    → Pixel Scale: 0.1816958277254374 mm
+2026-02-10 18:39:50 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\81-F_jpeg.rf.ff555baca1612bffaaf7977d0c88f9f8.jpg
+2026-02-10 18:39:50 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:50 - INFO - main.py:32 - 
+🖼  Processing 82-B-16-ani_jpeg
+2026-02-10 18:39:50 - INFO - main.py:33 -    → Resolution: 1210 × 576
+2026-02-10 18:39:50 - INFO - main.py:34 -    → Pixel Scale: 0.2231404958677686 mm
+2026-02-10 18:39:50 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\82-B-16-ani_jpeg.rf.31b9bb0383ec5c552f9ee02c7faabf10.txt line 24 for class 1 looks like a bbox; converted to polygon.
+2026-02-10 18:39:50 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\82-B-16-ani_jpeg.rf.31b9bb0383ec5c552f9ee02c7faabf10.jpg
+2026-02-10 18:39:50 - INFO - main.py:84 - ✔ Stored in DB | Age: 16
+2026-02-10 18:39:50 - INFO - main.py:32 - 
+🖼  Processing 82-F_jpeg
+2026-02-10 18:39:50 - INFO - main.py:33 -    → Resolution: 1488 × 753
+2026-02-10 18:39:50 - INFO - main.py:34 -    → Pixel Scale: 0.1814516129032258 mm
+2026-02-10 18:39:50 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\82-F_jpeg.rf.20ce2c53572beeb52af8f2818e854ce0.jpg
+2026-02-10 18:39:50 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:50 - INFO - main.py:32 - 
+🖼  Processing 83-B-40-de-ani_jpeg
+2026-02-10 18:39:50 - INFO - main.py:33 -    → Resolution: 1171 × 547
+2026-02-10 18:39:50 - INFO - main.py:34 -    → Pixel Scale: 0.23057216054654142 mm
+2026-02-10 18:39:50 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\83-B-40-de-ani_jpeg.rf.ef70f3a5c2600ff7d96bd28f0d29e6a1.jpg
+2026-02-10 18:39:50 - INFO - main.py:84 - ✔ Stored in DB | Age: 40
+2026-02-10 18:39:50 - INFO - main.py:32 - 
+🖼  Processing 83-F_jpeg
+2026-02-10 18:39:50 - INFO - main.py:33 -    → Resolution: 1494 × 757
+2026-02-10 18:39:50 - INFO - main.py:34 -    → Pixel Scale: 0.18072289156626506 mm
+2026-02-10 18:39:50 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\83-F_jpeg.rf.82313f094c116f53008a8b712ece8a10.txt line 28 for class 1 looks like a bbox; converted to polygon.
+2026-02-10 18:39:50 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\83-F_jpeg.rf.82313f094c116f53008a8b712ece8a10.jpg
+2026-02-10 18:39:50 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:50 - INFO - main.py:32 - 
+🖼  Processing 84-B-48-de-ani_jpeg
+2026-02-10 18:39:50 - INFO - main.py:33 -    → Resolution: 3645 × 1717
+2026-02-10 18:39:50 - INFO - main.py:34 -    → Pixel Scale: 0.07407407407407407 mm
+2026-02-10 18:39:50 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\84-B-48-de-ani_jpeg.rf.f69c6e7f8e4b89bb94c805ecd8adb46d.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: 48
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 84-F_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 1494 × 744
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.18072289156626506 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\84-F_jpeg.rf.7faaad09a4d68d97371864aa185285f1.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 85-B-24-de-ani_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 390 × 183
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.6923076923076923 mm
+2026-02-10 18:39:51 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\85-B-24-de-ani_jpeg.rf.f31f763263bef24910363c11c86e4be9.txt line 31 for class 2 looks like a bbox; converted to polygon.
+2026-02-10 18:39:51 - WARNING - load_yolo_polygons.py:36 - Label datasets\main-opgs-final-version\train\labels\85-B-24-de-ani_jpeg.rf.f31f763263bef24910363c11c86e4be9.txt line 32 for class 3 looks like a bbox; converted to polygon.
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\85-B-24-de-ani_jpeg.rf.f31f763263bef24910363c11c86e4be9.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: 24
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 85-F-_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 3301 × 1605
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.08179339594062406 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\85-F-_jpeg.rf.f1711c0c307d8df5057e924e2331d8a4.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 86-B-38-de-ani_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 3637 × 1709
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.07423700852350838 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\86-B-38-de-ani_jpeg.rf.6600bdc4607520b75dba55ce26b00e51.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: 38
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 86-F_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 1493 × 752
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.18084393837910248 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\86-F_jpeg.rf.31cd38394e5bc6a425509b0c9ae69578.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 87-B-39-de-ani_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 3643 × 1721
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.0741147405984079 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\87-B-39-de-ani_jpeg.rf.64d1998df2cc15dd9814478f8337183f.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: 39
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 88-B-19-ani_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 1169 × 551
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.2309666381522669 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\88-B-19-ani_jpeg.rf.7a1c7cabbfbe11828f6d021ca19e7fb6.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: 19
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 89-B_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 1506 × 744
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.17928286852589642 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\89-B_jpeg.rf.c4509ba588460fecc78afb905f6b1071.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 9-B-19-ani_jpg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 1168 × 550
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.23116438356164384 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\9-B-19-ani_jpg.rf.c37c9281431db5411f2bd9b59e0febab.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: 19
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 90-B_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 1559 × 748
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.1731879409878127 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\90-B_jpeg.rf.6a89d5cc5eb811ba7b2cdaa35113d271.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 91-B_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 1600 × 817
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.16875 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\91-B_jpeg.rf.7f3899525c2c37f690b45561109aeea5.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 92-B_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 1600 × 817
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.16875 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\92-B_jpeg.rf.ea798de502f483f75b2588b7a42da727.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 94-B_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 1600 × 817
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.16875 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\94-B_jpeg.rf.e414c41516e0c6441b2608b925e2e8e6.jpg
+2026-02-10 18:39:51 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:51 - INFO - main.py:32 - 
+🖼  Processing 95-B_jpeg
+2026-02-10 18:39:51 - INFO - main.py:33 -    → Resolution: 1600 × 819
+2026-02-10 18:39:51 - INFO - main.py:34 -    → Pixel Scale: 0.16875 mm
+2026-02-10 18:39:51 - INFO - visualize_measurements.py:92 - Saved visualization to exports\visualizations\95-B_jpeg.rf.95d23260133e929db3d85fff7d6edeef.jpg
+2026-02-10 18:39:52 - INFO - main.py:84 - ✔ Stored in DB | Age: None
+2026-02-10 18:39:52 - INFO - main.py:114 - 
 🎉 DONE! All OPG files processed successfully.
 

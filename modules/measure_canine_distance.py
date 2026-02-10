@@ -1,6 +1,21 @@
 import numpy as np
 
 
+def _extreme_center(px, py, want_max, eps):
+    target = float(np.max(py) if want_max else np.min(py))
+    if want_max:
+        mask = py >= (target - eps)
+    else:
+        mask = py <= (target + eps)
+
+    if not np.any(mask):
+        idx = int(np.argmax(py) if want_max else np.argmin(py))
+        return float(px[idx]), target
+
+    x = float(np.mean(px[mask]))
+    return x, target
+
+
 # GET PEAKS FUNCTION 
 def get_peak_point(points, image_width, image_height, t):
     '''Returns the 2D point representing the peak of the tooth'''
@@ -8,13 +23,11 @@ def get_peak_point(points, image_width, image_height, t):
     px = np.array([p[0] * image_width for p in points])  # Array of x coordinates (in pixels)
     py = np.array([p[1] * image_height for p in points]) # Array of y coordinates (in pixels)
 
+    eps = 1.0  # pixels
     if t in ["13", "23"]: # If maxilar canine get the bottom most point
-        peak_idx = np.argmax(py)
+        peak_x, peak_y = _extreme_center(px, py, want_max=True, eps=eps)
     else:
-        peak_idx = np.argmin(py) # If mandibular canine get the top most point
-
-    peak_x, peak_y = px[peak_idx], py[peak_idx] # Get the peak point in pixels
-
+        peak_x, peak_y = _extreme_center(px, py, want_max=False, eps=eps) # If mandibular canine get the top most point
 
     return (float(peak_x), float(peak_y))   # convert here too
 

@@ -3,4 +3,4 @@ venv/
 zips/
 .env
 notes.txt
-eliminated.txt
+exports/
